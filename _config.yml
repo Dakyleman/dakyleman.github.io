@@ -23,7 +23,7 @@ repository               : "Dakyleman/Dakyleman.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "preslie.jpg"
+  avatar           : "preslie.JPEG"
   name             : "Preslie Design Works"
   pronouns         : # example: "she/her"  
   bio              : "Keeping track of our projects"
